@@ -56,4 +56,4 @@ I am Dhrumil Vinil Gala, a data enthusiast with a strong background in data anal
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/dhrumilgala) or reach out via [email](mailto:dgala@usc.edu). I am always open to discussing new projects, collaborations, or opportunities in the field of data analytics and visualization.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhrumilgala/) or reach out via [email](mailto:dgala@usc.edu). I am always open to discussing new projects, collaborations, or opportunities in the field of data analytics and visualization.
