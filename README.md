@@ -11,6 +11,8 @@ Welcome to my Tableau Public Profile! Here, you'll find a collection of my data 
   - [Project 1: Instagram Data Analysis Dashboard](#project-1-instagram-data-analysis-dashboard)
   - [Project 2: IMDb Movie Dashboard](#project-2-imdb-movie-dashboard)
   - [Project 3: Emergency Room Visits Analytics](#project-3-emergency-room-visits-analytics)
+  - [Project 4: Netflix Movie Analytics](#project-4-netflix-movie-analytics)
+  - [Project 5: Heart Failure Data Analysis](#project-5-heart-failure-data-analysis)
 - [Skills](#skills)
 - [Contact](#contact)
 
@@ -46,6 +48,24 @@ I am Dhrumil Vinil Gala, a data enthusiast with a strong background in data anal
   - Demographic breakdown of patients
   - Time-based trends and patterns in emergency room visits
 - **Link**: [Emergency Room Visits Analytics](https://public.tableau.com/app/profile/dhrumil.vinil.gala/viz/EmergencyRoomVisitsAnalytics/EmergencyRoomDashboard)
+
+### Project 4: Netflix Movie Analytics
+
+- **Description**: This dashboard offers a comprehensive analysis of Netflix's movie data, including trends in movie genres, release years, and user ratings.
+- **Key Features**:
+  - Interactive filters for movie genres and release years
+  - Visualization of user ratings across different movies
+  - Analysis of genre popularity over time
+- **Link**: [Netflix Movie Analytics](https://public.tableau.com/app/profile/dhrumil.vinil.gala/viz/Netflix_17276395520430/Netflix)
+
+### Project 5: Heart Failure Data Analysis
+
+- **Description**: A data analysis dashboard providing insights into heart failure patients, including demographics, clinical data, and outcomes.
+- **Key Features**:
+  - Visual analysis of patient demographics and clinical conditions
+  - Filters for various clinical factors such as age, cholesterol, and blood pressure
+  - Outcome trends based on different demographic factors
+- **Link**: [Heart Failure Data Analysis](https://public.tableau.com/app/profile/dhrumil.vinil.gala/viz/Heartfailure_17276399009240/Dashboard1)
 
 ## Skills
 
